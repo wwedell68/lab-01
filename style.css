@@ -1,7 +1,3 @@
-body {
-background-color: black;
-}
-
 #a {
 width: 480px;
 height: 75px;
@@ -39,7 +35,7 @@ background-color: red;
 }
 #h {
   width: 240px;
-  height:250;
+  height:250px;
   background-color: green;
 }
 #i {

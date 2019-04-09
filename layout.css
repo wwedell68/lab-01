@@ -1,0 +1,13 @@
+body {
+  width: 480px;
+}
+
+div{
+  float: left;
+}
+
+@media only screen and (min-width:768px) {
+  body {
+    width: 960px;
+  }
+}
