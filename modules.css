@@ -1,0 +1,45 @@
+#a {
+  width: 480px;
+  height: 75px;
+  background-color: red;
+  }
+  #b {
+    width: 480px;
+    height: 150px;
+    background-color: blue;
+  }
+  #c {
+    width: 480px;
+    height: 125px;
+    background-color: hotpink;
+  }
+  #d {
+    width: 480px;
+    height: 125px;
+    background-color: yellow;
+  }
+  #e {
+    width: 240px;
+    height: 250px;
+    background-color: teal;
+  }
+  #f {
+    width: 240px;
+    height: 250px;
+    background-color: purple;
+  }
+  #g {
+    width: 240px;
+    height: 250px;
+    background-color: orange;
+  }
+  #h {
+    width: 240px;
+    height:250px;
+    background-color: green;
+  }
+  #i {
+    width: 480px;
+    height: 80px;
+    background-color: mediumslateblue;
+  }
